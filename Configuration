@@ -1,1 +1,10 @@
+# Security Onion Setup
 
+## Steps
+1. Installed Ubuntu Server
+2. Deployed Security Onion
+3. Configured network interfaces
+4. Enabled log ingestion
+
+## Outcome
+Successfully deployed SIEM for monitoring and analysis.
