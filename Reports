@@ -12,3 +12,18 @@ Escalated for further analysis.
 
 ## Conclusion
 Potential security incident.
+
+# Nessus Scan Report
+
+## Target
+Internal lab system
+
+## Findings
+- Open ports detected
+- Outdated software identified
+
+## Risk Level
+Medium
+
+## Recommendation
+Apply patches and secure open ports.
